@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sanjeev-Mishra
-- 👀 I’m interested in coding for resolution of any problem
-- 🌱 I’m currently coding for large scale project for finance and banking system
+- 👀 Full  Stack Developer, Trainer
 - 💞️ Always ready for learning new things
 - 📫 Contact me :- citrainfonet@gmail.com
 
